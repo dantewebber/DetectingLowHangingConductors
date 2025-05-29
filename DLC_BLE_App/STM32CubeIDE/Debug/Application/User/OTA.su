@@ -1,0 +1,6 @@
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/OTA.c:93:8:UpdateFWBlueMS	48	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/OTA.c:260:6:StartUpdateFWBlueMS	40	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/OTA.c:323:6:ReadFlashBanksFwId	24	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/OTA.c:347:13:DeleteOtherFlashBankFwId	48	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/OTA.c:422:6:UpdateCurrFlashBankFwIdBoardName	80	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/OTA.c:610:10:ReadFlashBoardName	24	static

@@ -1,0 +1,10 @@
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/BLE_Broadcaster.c:28:6:startAdvertising	4
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/BLE_Broadcaster.c:118:6:stopAdvertising	2
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/BLE_Broadcaster.c:137:9:StartBLEScan	3
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/BLE_Broadcaster.c:180:6:hci_le_advertising_report_event	3
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/BLE_Broadcaster.c:234:6:StopBLEScan	2
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/BLE_Broadcaster.c:251:12:InitBleBroadcaster	3
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/BLE_Broadcaster.c:288:19:InitBleBroadcaster_BLE_Stack	4
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/BLE_Broadcaster.c:417:19:InitBleBroadcasterServices	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/BLE_Broadcaster.c:425:13:APP_UserEvtRx	12
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/BLE_Broadcaster.c:486:13:ResetBleManagerCallbackFunctionPointer	1

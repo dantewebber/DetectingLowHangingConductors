@@ -1,0 +1,4 @@
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/STM32_BLE_Manager/Src/BLE_Environmental.c:76:17:BLE_InitEnvService	24	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/STM32_BLE_Manager/Src/BLE_Environmental.c:202:12:BLE_EnvironmentalUpdate	40	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/STM32_BLE_Manager/Src/BLE_Environmental.c:268:13:AttrMod_Request_Env	24	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/STM32_BLE_Manager/Src/BLE_Environmental.c:335:13:Read_Request_Env	80	static

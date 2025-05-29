@@ -1,0 +1,7 @@
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/BlueNRG-LP/hci/controller/bluenrg_lp_l2cap_aci.c:26:12:aci_l2cap_connection_parameter_update_req	600	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/BlueNRG-LP/hci/controller/bluenrg_lp_l2cap_aci.c:63:12:aci_l2cap_connection_parameter_update_resp	600	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/BlueNRG-LP/hci/controller/bluenrg_lp_l2cap_aci.c:111:12:aci_l2cap_cfc_connection_req_nwk	600	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/BlueNRG-LP/hci/controller/bluenrg_lp_l2cap_aci.c:151:12:aci_l2cap_cfc_connection_resp_nwk	600	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/BlueNRG-LP/hci/controller/bluenrg_lp_l2cap_aci.c:193:12:aci_l2cap_send_flow_control_credits	600	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/BlueNRG-LP/hci/controller/bluenrg_lp_l2cap_aci.c:229:12:aci_l2cap_disconnect	592	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/BlueNRG-LP/hci/controller/bluenrg_lp_l2cap_aci.c:257:12:aci_l2cap_transmit_sdu_data_nwk	608	static

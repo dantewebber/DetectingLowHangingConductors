@@ -1,0 +1,29 @@
+../../../../../../Middlewares/ST/PnPLCompManager/Inc/IPnPLComponent_vtbl.h:55:21:IPnPLComponentGetKey	1
+../../../../../../Middlewares/ST/PnPLCompManager/Inc/IPnPLComponent_vtbl.h:60:23:IPnPLComponentGetNCommands	1
+../../../../../../Middlewares/ST/PnPLCompManager/Inc/IPnPLComponent_vtbl.h:65:21:IPnPLComponentGetCommandKey	1
+../../../../../../Middlewares/ST/PnPLCompManager/Inc/IPnPLComponent_vtbl.h:70:23:IPnPLComponentGetStatus	1
+../../../../../../Middlewares/ST/PnPLCompManager/Inc/IPnPLComponent_vtbl.h:87:25:IPnPLComponentSetProperty	1
+../../../../../../Middlewares/ST/PnPLCompManager/Inc/IPnPLComponent_vtbl.h:92:25:IPnPLCommandExecuteFunction	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:42:9:PnPLGetFWID	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:52:9:PnPLGetBOARDID	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:63:6:PnPLSetFWID	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:71:6:PnPLSetBOARDID	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:88:7:pnpl_malloc	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:92:6:pnpl_free	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:107:6:PnPLSetAllocationFunctions	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:117:13:PnPLGetUniqueID	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:134:6:PnPLGenerateAcquisitionUUID	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:164:9:PnPLAddComponent	4
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:188:10:PnPLGetNComponents	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:194:10:PnPLGetComponentsNames	2
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:207:9:PnPLGetComponentValue	5
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:257:9:PnPLGetPresentationJSON	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:284:9:PnPLGetDeviceStatusJSON	3
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:393:9:PnPLGetFilteredDeviceStatusJSON	6
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:513:9:PnPLUpdateDeviceStatusFromJSON	5
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:564:16:extract_PnPL_cmd_data	13
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:651:9:PnPLParseCommand	12
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:752:9:PnPLSerializeResponse	9
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:821:6:PnPLFreeSerializedString	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:825:16:setTelemetryValue	7
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:872:9:PnPLSerializeTelemetry	3

@@ -1,0 +1,7 @@
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/stm32u5xx_hal_msp.c:66:6:HAL_MspInit	16	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/stm32u5xx_hal_msp.c:88:6:HAL_CRC_MspInit	24	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/stm32u5xx_hal_msp.c:110:6:HAL_CRC_MspDeInit	16	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/stm32u5xx_hal_msp.c:132:6:HAL_SPI_MspInit	248	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/stm32u5xx_hal_msp.c:245:6:HAL_SPI_MspDeInit	16	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/stm32u5xx_hal_msp.c:281:6:HAL_TIM_OC_MspInit	24	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/stm32u5xx_hal_msp.c:306:6:HAL_TIM_OC_MspDeInit	16	static

@@ -1,0 +1,5 @@
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Drivers/BSP/SensorTileBoxPro/SensorTileBoxPro_nfctag_ex.c:35:9:BSP_NFCTAG_ChangeITPulse	40	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Drivers/BSP/SensorTileBoxPro/SensorTileBoxPro_nfctag_ex.c:62:9:BSP_NFCTAG_ChangeMBMode	40	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Drivers/BSP/SensorTileBoxPro/SensorTileBoxPro_nfctag_ex.c:88:9:BSP_NFCTAG_ChangeI2CPassword	32	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Drivers/BSP/SensorTileBoxPro/SensorTileBoxPro_nfctag_ex.c:129:9:BSP_NFCTAG_WriteConfigIT	40	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Drivers/BSP/SensorTileBoxPro/SensorTileBoxPro_nfctag_ex.c:161:9:BSP_NFCTAG_ChangeMBWDG	40	static

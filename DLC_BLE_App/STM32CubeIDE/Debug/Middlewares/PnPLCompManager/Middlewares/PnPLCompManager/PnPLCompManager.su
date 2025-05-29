@@ -1,0 +1,29 @@
+../../../../../../Middlewares/ST/PnPLCompManager/Inc/IPnPLComponent_vtbl.h:55:21:IPnPLComponentGetKey	16	static
+../../../../../../Middlewares/ST/PnPLCompManager/Inc/IPnPLComponent_vtbl.h:60:23:IPnPLComponentGetNCommands	16	static
+../../../../../../Middlewares/ST/PnPLCompManager/Inc/IPnPLComponent_vtbl.h:65:21:IPnPLComponentGetCommandKey	16	static
+../../../../../../Middlewares/ST/PnPLCompManager/Inc/IPnPLComponent_vtbl.h:70:23:IPnPLComponentGetStatus	32	static
+../../../../../../Middlewares/ST/PnPLCompManager/Inc/IPnPLComponent_vtbl.h:87:25:IPnPLComponentSetProperty	16	static
+../../../../../../Middlewares/ST/PnPLCompManager/Inc/IPnPLComponent_vtbl.h:92:25:IPnPLCommandExecuteFunction	16	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:42:9:PnPLGetFWID	4	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:52:9:PnPLGetBOARDID	4	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:63:6:PnPLSetFWID	16	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:71:6:PnPLSetBOARDID	16	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:88:7:pnpl_malloc	16	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:92:6:pnpl_free	16	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:107:6:PnPLSetAllocationFunctions	16	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:117:13:PnPLGetUniqueID	40	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:134:6:PnPLGenerateAcquisitionUUID	40	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:164:9:PnPLAddComponent	24	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:188:10:PnPLGetNComponents	4	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:194:10:PnPLGetComponentsNames	32	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:207:9:PnPLGetComponentValue	56	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:257:9:PnPLGetPresentationJSON	24	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:284:9:PnPLGetDeviceStatusJSON	104	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:393:9:PnPLGetFilteredDeviceStatusJSON	104	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:513:9:PnPLUpdateDeviceStatusFromJSON	176	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:564:16:extract_PnPL_cmd_data	64	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:651:9:PnPLParseCommand	112	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:752:9:PnPLSerializeResponse	48	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:821:6:PnPLFreeSerializedString	16	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:825:16:setTelemetryValue	104	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/PnPLCompManager/Src/PnPLCompManager.c:872:9:PnPLSerializeTelemetry	64	static

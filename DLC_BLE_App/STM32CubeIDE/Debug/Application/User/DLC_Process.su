@@ -1,0 +1,4 @@
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/DLC_Process.c:16:6:DLC_Init	8	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/DLC_Process.c:24:6:DLC_mainProcess	16	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/DLC_Process.c:70:13:timersInit	40	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/DLC_Process.c:111:6:HAL_TIM_OC_DelayElapsedCallback	24	static

@@ -1,0 +1,7 @@
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/STM32_BLE_Manager/Src/BLE_PnPLike.c:54:17:BLE_InitPnPLikeService	16	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/STM32_BLE_Manager/Src/BLE_PnPLike.c:89:12:BLE_PnPLikeUpdate	24	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/STM32_BLE_Manager/Src/BLE_PnPLike.c:112:13:AttrMod_Request_PnPLike	24	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/STM32_BLE_Manager/Src/BLE_PnPLike.c:149:13:Write_Request_PnPLike	32	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/STM32_BLE_Manager/Src/BLE_PnPLike.c:183:6:BLE_PnPLikeSetMaxCharLength	16	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/STM32_BLE_Manager/Src/BLE_PnPLike.c:193:10:BLE_PnPLikeGetMaxCharLength	4	static
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Middlewares/ST/STM32_BLE_Manager/Src/BLE_PnPLike.c:203:6:BLE_PnPLikeReset	8	static

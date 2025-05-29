@@ -1,0 +1,12 @@
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/app_blesensorspnpl.c:138:6:MX_BLESensorsPnPL_Init	6
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/app_blesensorspnpl.c:234:6:MX_BLESensorsPnPL_Process	12
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/app_blesensorspnpl.c:423:13:periodicAdvProcess	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/app_blesensorspnpl.c:494:13:InitMemsSensors	16
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/app_blesensorspnpl.c:604:13:SendBatteryInfoData	4
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/app_blesensorspnpl.c:647:13:InitTimers	14
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/app_blesensorspnpl.c:726:13:User_Init	3
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/app_blesensorspnpl.c:840:6:BSP_PB_Callback	1
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/app_blesensorspnpl.c:851:13:PrintInfo	3
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/app_blesensorspnpl.c:888:6:HAL_Delay	2
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/app_blesensorspnpl.c:902:6:STBOX1_Error_Handler	2
+C:/Users/dante/OneDrive/Documents/UCT/EEE4022F/ST Sensor/examples/Projects/STEVAL-MKBOXPRO/Applications/BLESensorsPnPL/Src/app_blesensorspnpl.c:934:20:BSP_CheckFinishGood	3
